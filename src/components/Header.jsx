@@ -8,7 +8,7 @@ const Header = () => {
     <header className="header">
       <nav className="nav">
         <div className="logo">
-          <h1>Fredrik Dokken</h1>
+          <h1>I'm Fredrik</h1>
         </div>
         <ul className={`nav-links ${isMenuOpen ? 'nav-open' : ''}`}>
           <li><a href="#home">Home</a></li>
